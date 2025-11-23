@@ -1,12 +1,12 @@
-# LinuxUsersLinuxMint Official Website
+# OpenSoftware-World Official Website
 
-🌐 **Official website for LinuxUsersLinuxMint & LinuxUsersLinuxMint-Official**
+🌐 **Official website for OpenSoftware-World & OpenSoftware-World-Official**
 
 ---
 
 ## 📄 About
 
-Welcome to the official website repository of **LinuxUsersLinuxMint** and **LinuxUsersLinuxMint-Official**.
+Welcome to the official website repository of **OpenSoftware-World** and **OpenSoftware-World-Official**.
 
 This project serves as the main web platform representing our community and projects.  
 We aim to share our developments, projects, and updates with the open-source world through this platform.
@@ -17,7 +17,7 @@ We aim to share our developments, projects, and updates with the open-source wor
 
 - ✅ The source code of this project is open for review and use.
 - ✅ You are allowed to copy, modify, and share the code.
-- ⚠️ However, **proper attribution to the original project (LinuxUsersLinuxMint)** is required when using any part of this code.
+- ⚠️ However, **proper attribution to the original project (OpenSoftware-World)** is required when using any part of this code.
 
 > We respect open-source ethics and kindly ask everyone to mention the source while reusing or distributing the code.
 
@@ -44,7 +44,8 @@ If you like this project, feel free to give a ⭐ to support and motivate the de
 
 ## 🔗 Useful Links
 
-- 🌐 [Official Website](https://linuxuserslinuxmint.github.io/)
-- 🐙 [GitHub Profile](https://github.com/LinuxUsersLinuxMint)
+- 🌐 [Official Website](https://opensoftware-world.github.io/)
+- 🐙 [GitHub Profile](https://github.com/OpenSoftware-World)
+
 
 ---
