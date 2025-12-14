@@ -1,11 +1,11 @@
 var lang = navigator.language;
 if (lang.startsWith("tr"))
 {
-    document.location.href = "/WS_Pages/TR/mainpage";
+    document.location.href = "/";
 }
 else if (lang.startsWith("en"))
 {
-    document.location.href = "/WS_Pages/EN/mainpage";
+    document.location.href = "/";
 }
 else
 {
