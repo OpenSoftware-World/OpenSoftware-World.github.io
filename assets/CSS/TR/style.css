@@ -123,12 +123,6 @@
     .navbar, .contentsbox {
         border-radius: 9px;
     }
-    .navbar {
-        width: 97.5%;
-        border: 35px solid var(--lx-web-opc-purple-color);
-        margin: -1px;
-        height: 0vh;
-    }
     .contentsbox {
         width: 10%;
         border: 200px solid var(--lx-web-opc-purple-color);
