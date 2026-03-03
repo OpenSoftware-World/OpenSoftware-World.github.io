@@ -12,7 +12,7 @@ window.onload = function() {
     var updates_four = document.getElementById("updates_four");
 
     if (lang.startsWith("en")) {
-        document.title = "LinuxUsersLinuxMint - Web site update notes";
+        document.title = "OpenSoftware-World - Web site update notes";
         updates_one_date.childNodes[0].nodeValue = "8/2/2025 - 6:12 PM (2 August, 2025):";
         updates_one.innerHTML = "There is now an update notes page for the website, allowing users to see the changes that have been made.";
         updates_two_date.childNodes[0].nodeValue = "8/3/2025 - 2:50 PM (3 August, 2025):";
@@ -24,7 +24,7 @@ window.onload = function() {
         updates_four.innerHTML = "Minor optimizations have been made to the language translation service files on the Updates and Support page.";
     }
     else if (lang.startsWith("tr")) {
-        document.title = "LinuxUsersLinuxMint - Web sitesi güncelleme notları";
+        document.title = "OpenSoftware-World - Web sitesi güncelleme notları";
         updates_one_date.childNodes[0].nodeValue = "2/8/2025 - 18:12 (2 Ağustos, 2025):";
         updates_one.innerHTML = "Artık web sitesi için güncelleme notları sayfası mevcuttur bu sayede kullanıcılar yapılan değişiklikleri görebileceklerdir.";
         updates_two_date.childNodes[0].nodeValue = "3/8/2025 - 14:50 (3 Ağustos, 2025):";
