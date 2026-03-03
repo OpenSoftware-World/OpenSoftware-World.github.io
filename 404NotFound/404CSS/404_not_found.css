@@ -1,6 +1,6 @@
 @import url("/assets/CSS/common_code.css");
 .body {
-    background: var(--lx-web-agreement-page-background-color);
+    /*background: var(--lx-web-agreement-page-background-color);*/
     font-family: Arial;
 }
 .error-title-navbar, .error-footer {
@@ -8,7 +8,6 @@
 }
 .error-title-navbar {
     margin: 10px;
-    background-color: rgb(41, 40, 40);
 }
 .error-footer {
     margin: 50px;
