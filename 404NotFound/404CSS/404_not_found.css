@@ -1,6 +1,5 @@
 @import url("/assets/CSS/common_code.css");
 .body {
-    /*background: var(--lx-web-agreement-page-background-color);*/
     font-family: Arial;
 }
 .error-title-navbar, .error-footer {
