@@ -44,7 +44,7 @@ If you like this project, feel free to give a ⭐ to support and motivate the de
 
 ## 🔗 Useful Links
 
-- 🌐 [Official Website](https://opensoftware-world.github.io/)
+- 🌐 [Official Website](https://opensoftware-world.com/)
 - 🐙 [GitHub Profile](https://github.com/OpenSoftware-World)
 
 
